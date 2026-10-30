@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Pranav Mahesh Palled — AI and software builder</title>
+  <desc id="desc">A dark, technical banner with a monogram, subtle grid, connected nodes, and the message Build. Automate. Iterate.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080d18"/>
+      <stop offset="0.55" stop-color="#101b2d"/>
+      <stop offset="1" stop-color="#071b20"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e6bd68"/>
+      <stop offset="0.52" stop-color="#71e0d0"/>
+      <stop offset="1" stop-color="#74a7ff"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17243a" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#0d1a25" stop-opacity="0.52"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#9bb4c9" stroke-opacity="0.09" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1030" cy="40" r="220" fill="#4dd8c5" opacity="0.055"/>
+  <circle cx="1120" cy="330" r="180" fill="#6e9cff" opacity="0.07"/>
+  <path d="M0 290 C230 245 300 365 540 310 S890 225 1200 275" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.35" fill="none"/>
+
+  <rect x="62" y="62" width="196" height="196" rx="28" fill="url(#panel)" stroke="url(#accent)" stroke-opacity="0.8" stroke-width="2"/>
+  <path d="M100 105 H220 V135 H136 V169 H205 V199 H136 V228 H100 Z" fill="url(#accent)"/>
+  <circle cx="235" cy="84" r="5" fill="#71e0d0" filter="url(#glow)"/>
+  <circle cx="86" cy="238" r="4" fill="#e6bd68" filter="url(#glow)"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="310" y="118" fill="#9fb0c7" font-size="18" letter-spacing="5">ENGINEERING NOTEBOOK / 001</text>
+    <text x="304" y="190" fill="#f4f7fb" font-size="62" font-weight="800" letter-spacing="1">PRANAV PALLED</text>
+    <rect x="310" y="218" width="540" height="4" rx="2" fill="url(#accent)"/>
+    <text x="310" y="265" fill="#d8e4f1" font-size="25" font-weight="600">AI SYSTEMS  ·  INTELLIGENT AUTOMATION  ·  SOFTWARE</text>
+    <text x="310" y="309" fill="#8ea5bd" font-size="18" letter-spacing="2">BUILD WITH INTENT. AUTOMATE THE REPEATABLE. SHIP THE USEFUL.</text>
+  </g>
+
+  <g fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.78">
+    <path d="M930 102 H1030 L1080 152 H1150"/>
+    <path d="M950 210 H1020 L1060 170 H1140"/>
+    <path d="M990 268 H1085 L1125 228 H1170"/>
+    <path d="M1050 66 V102"/>
+  </g>
+  <g fill="#71e0d0" filter="url(#glow)">
+    <circle cx="930" cy="102" r="5"/><circle cx="1030" cy="102" r="5"/><circle cx="1080" cy="152" r="5"/>
+    <circle cx="950" cy="210" r="5"/><circle cx="1020" cy="210" r="5"/><circle cx="1060" cy="170" r="5"/>
+    <circle cx="990" cy="268" r="5"/><circle cx="1085" cy="268" r="5"/>
+  </g>
+  <g fill="#e6bd68" opacity="0.85">
+    <circle cx="1150" cy="152" r="4"/><circle cx="1140" cy="170" r="4"/><circle cx="1170" cy="228" r="4"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#a6bdd1" stroke-opacity="0.2"/>
+</svg>
