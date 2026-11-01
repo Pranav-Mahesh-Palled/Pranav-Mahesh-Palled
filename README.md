@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/pranav-name-only.gif" alt="PRANAV PALLED with red-and-blue police-style illumination on the letters only" width="100%" />
+  <img src="./assets/pranav-name-only.gif" alt="PRANAV PALLED with a 30-second repeating red-and-blue police-style double-flash animation on the letters only" width="100%" />
   <br />
   <br />
   <a href="https://komarev.com/ghpvc/?username=Pranav-Mahesh-Palled">
