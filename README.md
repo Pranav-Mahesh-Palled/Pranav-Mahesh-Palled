@@ -1,40 +1,51 @@
 <div align="center">
-  <img src="./assets/pranav-banner.svg" alt="Pranav Mahesh Palled — AI systems, intelligent automation and software" width="100%" />
+  <img src="./assets/pranav-name-only.gif" alt="PRANAV PALLED with red-and-blue police-style illumination on the letters only" width="100%" />
   <br />
   <br />
   <a href="https://komarev.com/ghpvc/?username=Pranav-Mahesh-Palled">
-    <img src="https://komarev.com/ghpvc/?username=Pranav-Mahesh-Palled&label=PROFILE%20VISITS&color=18A999&style=for-the-badge" alt="Profile visits" />
+    <img src="https://komarev.com/ghpvc/?username=Pranav-Mahesh-Palled&label=PROFILE%20SIGNALS&color=ff244d&style=for-the-badge" alt="Profile views" />
   </a>
   <a href="https://github.com/Pranav-Mahesh-Palled?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-18243A?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+    <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-18243A?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
-  <a href="https://www.linkedin.com/in/pranav-mahesh-palled-71475a31b">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <a href="https://linkedin.com/in/pranav-mahesh-palled-71475a31b">
+    <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <br />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=75E0D0&center=true&vCenter=true&width=850&lines=I+build+AI-powered+applications.;I+turn+repetitive+work+into+intelligent+workflows.;I+learn+by+building%2C+testing%2C+and+iterating." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1100&color=F2F5FA&center=true&vCenter=true&width=900&lines=Building+AI-powered+systems.;Turning+repetitive+work+into+intelligent+workflows.;Learning+by+building%2C+testing%2C+and+shipping." alt="Typing introduction" />
+  <br />
+  <img src="./assets/pranav-divider.svg" width="100%" alt="Red-to-blue signal divider" />
 </div>
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <img src="./assets/pranav-monogram.svg" width="100%" alt="Pranav Palled PP monogram with red and blue signal accents" />
+    </td>
+    <td width="75%" valign="top">
+      <h2>👋 PRANAV PALLED — ENGINEERING PROFILE</h2>
+      <p><strong>Computer Science &amp; Engineering student at KLS Gogte Institute of Technology.</strong></p>
+      <p>I build practical software at the intersection of <strong>AI, machine learning, intelligent automation, and full-stack engineering</strong> — from RAG-powered knowledge assistants and AI-assisted healthcare prototypes to workflow automations and developer tools.</p>
+      <p>I like taking a problem from a rough idea to a working prototype: understand it, build it, test it, debug it, and improve it. This GitHub is my public engineering notebook.</p>
+      <p><strong>PRANAV PALLED  /  BUILD WITH INTENT · AUTOMATE WITH INTELLIGENCE · KEEP ITERATING</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <h2>👋 Hey, I'm Pranav.</h2>
-      <p><strong>Computer Science & Engineering student at KLS Gogte Institute of Technology.</strong></p>
-      <p>I build practical software at the intersection of <strong>AI, machine learning, intelligent automation, and full-stack engineering</strong> — from RAG-powered knowledge assistants and AI-assisted healthcare prototypes to workflow automations and developer tools.</p>
-      <p>I like taking a problem from a rough idea to a working prototype: understand it, build it, test it, debug it, and improve it. This GitHub is my public engineering notebook.</p>
-    </td>
-    <td width="42%" valign="top">
+    <td width="100%" valign="top">
       <h3>🖥️ `pranav@github:~$ whoami`</h3>
       <pre>
-Name      : Pranav Mahesh Palled
-Degree    : B.E. — CSE
-Institute : KLS Gogte Institute of Technology
-Based in  : Belagavi, India
-Focus     : AI • Automation • Software
-Approach  : Build → Test → Iterate → Ship
+NAME      : PRANAV PALLED
+DEGREE    : B.E. — COMPUTER SCIENCE & ENGINEERING
+INSTITUTE : KLS GOGTE INSTITUTE OF TECHNOLOGY
+BASED IN  : BELAGAVI, INDIA
+FOCUS     : AI • MACHINE LEARNING • AUTOMATION • SOFTWARE
+APPROACH  : BUILD → TEST → DEBUG → IMPROVE → SHIP
       </pre>
       <p><sub>Curiosity-driven. Project-oriented. Always learning.</sub></p>
     </td>
@@ -174,6 +185,6 @@ Approach  : Build → Test → Iterate → Ship
 
 <div align="center">
   <h3>“Ideas are easy to imagine. Engineering is turning them into something that works.”</h3>
-  <p><strong>BUILD WITH INTENT · AUTOMATE WITH INTELLIGENCE · KEEP ITERATING</strong></p>
+  <p><strong>PRANAV PALLED  /  BUILD WITH INTENT · AUTOMATE WITH INTELLIGENCE · KEEP ITERATING</strong></p>
   <sub>Thanks for stopping by. Explore a project, open an issue, or say hello.</sub>
 </div>
