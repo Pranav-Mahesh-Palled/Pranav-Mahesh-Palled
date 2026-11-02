@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/pranav-police-lights.gif" alt="PRANAV PALLED in uppercase with alternating red and blue police-style lights" width="100%" />
+  <img src="./assets/pranav-name-only.gif" alt="PRANAV PALLED in uppercase with alternating red and blue police-style lights" width="100%" />
   <br />
   <br />
   <a href="https://komarev.com/ghpvc/?username=Pranav-Mahesh-Palled">
