@@ -185,6 +185,6 @@ APPROACH  : BUILD → TEST → DEBUG → IMPROVE → SHIP
 
 <div align="center">
   <h3>“Ideas are easy to imagine. Engineering is turning them into something that works.”</h3>
-  <p><strong>PRANAV M PALLED  /  BUILD WITH INTENT · AUTOMATE WITH INTELLIGENCE · KEEP ITERATING</strong></p>
+  <p><strong>PRANAV PALLED  /  BUILD WITH INTENT · AUTOMATE WITH INTELLIGENCE · KEEP ITERATING</strong></p>
   <sub>Thanks for stopping by. Explore a project, open an issue, or say hello.</sub>
 </div>
